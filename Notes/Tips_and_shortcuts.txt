@@ -1,0 +1,25 @@
+Good 5 minute video on PyCharm tips:
+https://www.youtube.com/watch?v=tRg7-9LI7Pk
+
+DevDungeon Cookbook - Great example of creating a Cookbook
+Lots of Code:
+https://github.com/DevDungeon/Cookbook
+
+I did a EuroPython talk about my amateur attempts to drive OpenGL from Python:
+http://pyvideo.org/video/381/pycon-2011--algorithmic-generation-of-opengl-geom
+
+The latest version of the code I'm talking about is here: https://github.com/tartley/gloopy
+
+When people think of an "OpenGL tutorial", many will immediately think of the NeHe tutorials
+by Jeff Molofee, available at http://nehe.gamedev.net/ these tutorials range from the very
+simple (create an OpenGL window) through the advanced (particle systems, loading scenes
+from various formats, displaying video textures, text, morphing, multi-texturing).
+The older tutorials tend to be legacy-mode operations, so you should keep in mind that they
+are describing old ways of working as you learn with them.
+
+http://nehe.gamedev.net/
+
+http://pyopengl.sourceforge.net/context/tutorials/shader_intro.html
+
+http://www.opengl-tutorial.org/
+

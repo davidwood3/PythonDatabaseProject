@@ -1,0 +1,28 @@
+To create a live template.
+
+Go to youtube.com and search for pycharm snippets
+
+you will find.
+https://www.youtube.com/watch?v=4TsOi4E2q84
+
+This shows how to do it.
+
+From File Menu, select Settings
+
+From Settings, select Editor, then select Live Templates
+
+Select Language (ie Python)
+Click the + icon to add.
+In the Abbreviation textbox, give your snippet a name (ie pyQuit)
+In the Description textbox, give your snippet a description
+
+In the Template text textbox, write the script.
+You can use variables here also.
+
+Click the Define button to add a context to the snippet (ie Python)
+
+Click OK.
+
+To Use.
+Position in the editor where you want to use your snippet.
+Type the Abbreviation and press the TAB key.  You snippet should expand.
